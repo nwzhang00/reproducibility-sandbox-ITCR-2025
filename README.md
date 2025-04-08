@@ -10,6 +10,7 @@ This R-based pipeline performs RNA-seq analysis on Acute Myeloid Leukemia (AML) 
 
 - Source: SRP070849 experiment from Shih et al., 2017 0:1
 - Contains 19 AML model mouse samples
+``` Add more detail
 - Includes RNA sequencing data with quantile normalization
 - Features different mutation types (IDH2, TET2, WT) and treatments
 
